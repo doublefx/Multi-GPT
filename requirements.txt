@@ -15,7 +15,7 @@ pinecone-client==2.2.1
 redis~=4.5.4
 orjson~=3.8.10
 Pillow~=9.5.0
-selenium~=4.8.3
+selenium~=4.15.1
 webdriver-manager
 coverage~=7.2.3
 flake8
