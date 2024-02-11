@@ -32,3 +32,4 @@ pytest-mock
 tweepy
 lmql==0.0.5.1
 langchain~=0.0.161
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
